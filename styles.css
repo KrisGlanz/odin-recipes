@@ -1,0 +1,45 @@
+html {
+    background-color: #9e8978;
+}
+
+nav {
+    text-align: center;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-bottom: 1em;
+}
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+}
+
+#smoker {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%;
+    display: block;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.lists {
+    margin-left: 400px;
+    
+}
+
+nav a {
+    text-decoration: none;
+    font-size: large;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-bottom: 1em;
+}
+
+p {
+    margin-left: 5px;
+    margin-right: 5px;
+}
